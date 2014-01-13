@@ -75,3 +75,12 @@ p
 	margin-right: 15px;
 	width: auto;
 }
+
+.entry-list
+{
+	padding: 0px;
+	margin-left: 15px;
+	margin-right: 15px;
+	width: auto;
+	list-style-type:none;
+}
