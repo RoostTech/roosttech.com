@@ -84,3 +84,10 @@ p
 	width: auto;
 	list-style-type:none;
 }
+
+.tagline {
+	width: 100%;
+	text-align: center;
+	position: relative;
+	display: block;
+}
